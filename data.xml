@@ -1,0 +1,19 @@
+﻿<journal>
+  
+  <report>
+    <name>Alpha Beta Group, LLC</name>
+    <phrase1.docx>1</phrase1.docx>
+    <phrase2.docx>1</phrase2.docx>
+  </report>
+  <report>
+    <name>Gamma Consulting Corporation</name>
+    <phrase1.docx>0</phrase1.docx>
+    <phrase2.docx>1</phrase2.docx>
+  </report>
+  <report>
+    <name>Delta Fitness Company</name>
+    <phrase1.docx>1</phrase1.docx>
+    <phrase2.docx>0</phrase2.docx>
+  </report>
+   
+</journal>
